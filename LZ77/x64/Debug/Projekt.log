@@ -1,0 +1,12 @@
+﻿  ClassAndFunctions.cpp
+M:\Studia]\LZ77\ClassAndFunctions.cpp(107,20): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+M:\Studia]\LZ77\ClassAndFunctions.cpp(146,35): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+M:\Studia]\LZ77\ClassAndFunctions.cpp(147,43): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+M:\Studia]\LZ77\ClassAndFunctions.cpp(176,22): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+M:\Studia]\LZ77\ClassAndFunctions.cpp(177,18): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+M:\Studia]\LZ77\ClassAndFunctions.cpp(204,42): warning C4267: "inicjowanie": konwersja z "size_t" do "int", możliwa utrata danych
+  Source.cpp
+M:\Studia]\LZ77\Source.cpp(22,13): warning C4101: "error": lokalna zmienna, do której nie istnieje odwołanie
+  Generowanie kodu...
+M:\Studia]\LZ77\ClassAndFunctions.cpp(52): warning C4715: "Algorithm::Save”: niewszystkie ścieżki kodu zwracają wartość
+  Projekt.vcxproj -> M:\Studia]\LZ77\x64\Debug\Projekt.exe
